@@ -1,7 +1,7 @@
 # <a href="https://beacons.ai/eriknathan_">Erik Nathan</a>
  
  ```sh# Site (não oficial) do Starbucks
- Formuário de Login - Erik Nathan
+  Site (não oficial) do Starbucks
 ```
  
 ## Sobre o repositório
