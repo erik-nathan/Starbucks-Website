@@ -1,18 +1,19 @@
 # <a href="https://beacons.ai/eriknathan_">Erik Nathan</a>
  
  ```sh# Site (não oficial) do Starbucks
-  Site (não oficial) do Starbucks
+  Site (não oficial) do Starbucks feito pelo Tutorial do YouTube
 ```
  
 ## Sobre o repositório
-Este é um projeto de Login contendo o Nome e Senha e também tendo a opção de cadastro pelo Facebbok e Google
+Este é um projeto de uma página inicial do Starbucks (não oficial) feito de acordo com o tutorial no YouTube do Canal Tutoriais Online
 <br>
 
 ## Technologies
-- Front - End com HTML, CSS
+- Front - End com HTML, CSS, JavaScript
 
 <code><img height="50" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"></code>
 <code><img height="50" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png"></code>
+<code><img height="50" src="https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png"></code>
 
 ##  Contact Me
 - <a href="https://www.linkedin.com/in/erik-nathan-827b6b203/">Linkedin</a>
