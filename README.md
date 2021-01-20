@@ -5,8 +5,7 @@
 ```
  
 ## Sobre o repositório
-Este é um projeto de uma página inicial do Starbucks (não oficial) feito de acordo com o tutorial no YouTube do Canal Tutoriais Online
-<br>
+Este é um projeto de uma página inicial do Starbucks (não oficial) feito de acordo com o tutorial no YouTube do Canal Online Tutorials
 
 ##  Tutorial - Site do Starbucks
 <code><img height="50" src="https://seeklogo.com/images/Y/youtube-logo-FF3BEE4378-seeklogo.com.png"><a href="https://www.youtube.com/watch?v=91Q6RvKvd7o">Link do YouTube</a></code>
