@@ -8,8 +8,9 @@
 Este é um projeto de uma página inicial do Starbucks (não oficial) feito de acordo com o tutorial no YouTube do Canal Tutoriais Online
 <br>
 
-##  Tutotial - Site do Starbucks
+##  Tutorial - Site do Starbucks
 - <a href="https://www.youtube.com/watch?v=91Q6RvKvd7o">Link do YouTube</a>
+<code><img height="50" src="https://seeklogo.com/images/Y/youtube-logo-FF3BEE4378-seeklogo.com.png"></code>
 
 ## Technologies
 - Front - End com HTML, CSS, JavaScript
